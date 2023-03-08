@@ -1,6 +1,14 @@
 # Twitter Phishing IoCs to MISP
 The project consist of extracting Phishing IoCs (Indicator of Compromise) from Twitter and add them to MISP Instance.
 
+Here's some figures that represent the Types of IoCs extracted from Twitter and The top TLDs.
+
+**Timestamp:** 1678264570
+
+![IoCsTyps](IoCsTypes.png)
+
+![TLDs](TLDs.png)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install (pandas, gspread, pymisp, plotly).

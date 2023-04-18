@@ -3,7 +3,7 @@ The project consist of extracting Phishing IoCs (Indicator of Compromise) from T
 
 Here's some figures that represent the Types of IoCs extracted from Twitter and The top TLDs.
 
-**Timestamp:** 1678264570
+**Timestamp:** 1681835704
 
 ![IoCsTyps](IoCsTypes.png)
 

@@ -17,13 +17,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install (pandas
 pip install pandas gspread pymisp plotly
 ```
 
-## Configuration 
+## Configuration and Steps to Reproduce
 
 1. Create a PowerAutomate Workflow From *'Save a Tweets to a Google Sheet'* Template
 ![PowerAutomate Workflow](PowerAutomateWorkflow-Phishing.png "PowerAutomate Workflow")
 
 2. Configure a Google Cloud service to interact with the Google Sheet from the Python code.
-3. Create an *Authentification Key* bound to the Publisher user. 
+3. Create an *Authentification Key* bound to the Publisher MISP user. 
+4. Clone https://github.com/Reda-BELHAJ/TweetPhishingIoCsMISP and run it Locally.
 
 ## Contributing
 
